@@ -41,7 +41,7 @@ Studied and implemented TF-IDF method from scratch, Punctuations & StopWords.
 
 [Punctuations & StopWords](https://github.com/JShilpa/Data-Analysis-and-Visualization/blob/master/Machine%20Learning%20%26%20NLP/Punctuation%20%26%20StopWords.ipynb)
 
-[Spam Detection with NLP punctuation, stop words, BOW model & Bayes Classifier](https://github.com/JShilpa/Data-Analysis-and-Visualization/blob/master/Machine%20Learning%20%26%20NLP/Spam%20Detection.ipynb)
+[Spam Detection with NLP punctuation, stop words, BOW model](https://github.com/JShilpa/Data-Analysis-and-Visualization/blob/master/Machine%20Learning%20%26%20NLP/Spam%20Detection.ipynb)
 
 ### Day 27: May 14, 2018
 
