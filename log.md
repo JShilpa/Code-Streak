@@ -29,5 +29,21 @@ Started with Linear Regression with Bostpn Housing Dataset. Retreived, visualize
 
 [Linear Regression](https://github.com/JShilpa/Data-Analysis-and-Visualization/blob/master/Machine%20Learning/Linear%20Regression.ipynb)
 
-Laid groundwork for NLTK. Donwloaded nltk data and stopwords from corpus
+Laid groundwork for NLTK. Downloaded nltk data and stopwords from corpus
+
+### Day 26: May 13, 2018
+
+**NLTK**
+
+Studied and implemented TF-IDF method from scratch, Punctuations & StopWords.
+
+[TF-IDF Vectorizing](https://github.com/JShilpa/Data-Analysis-and-Visualization/blob/master/Machine%20Learning%20%26%20NLP/TF-IDF%20Vectorizing.ipynb)
+
+[Punctuations & StopWords](https://github.com/JShilpa/Data-Analysis-and-Visualization/blob/master/Machine%20Learning%20%26%20NLP/Punctuation%20%26%20StopWords.ipynb)
+
+[Spam Detection with NLP punctuation, stop words, BOW model & Bayes Classifier](https://github.com/JShilpa/Data-Analysis-and-Visualization/blob/master/Machine%20Learning%20%26%20NLP/Spam%20Detection.ipynb)
+
+### Day 27: May 14, 2018
+
+[Spam Detection Training Model with Bayes Classifier](https://github.com/JShilpa/Data-Analysis-and-Visualization/blob/master/Machine%20Learning%20%26%20NLP/Spam%20Detection.ipynb)
 
