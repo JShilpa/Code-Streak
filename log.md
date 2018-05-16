@@ -52,6 +52,7 @@ Studied and implemented TF-IDF method from scratch, Punctuations & StopWords.
 [SQL With Python](https://github.com/JShilpa/SQL/blob/master/SQL%20%26%20Python/SQLite3%20With%20Panda.ipynb)
 
 ### Day 29: May 16, 2018
+[BST With Tree Traversals](https://github.com/JShilpa/Python-Programs/tree/master/Data%20Structures/Trees/Binary%20Search%20Tree)
 
 
 
