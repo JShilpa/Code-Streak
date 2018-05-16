@@ -53,6 +53,7 @@ Studied and implemented TF-IDF method from scratch, Punctuations & StopWords.
 
 ### Day 29: May 16, 2018
 [BST With Tree Traversals](https://github.com/JShilpa/Python-Programs/tree/master/Data%20Structures/Trees/Binary%20Search%20Tree)
+[Simple Implementation Of Binary Tree](https://github.com/JShilpa/Python-Programs/blob/master/Data%20Structures/Trees/Binary%20Tree/solution.py)
 
 
 
