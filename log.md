@@ -47,3 +47,13 @@ Studied and implemented TF-IDF method from scratch, Punctuations & StopWords.
 
 [Spam Detection Training Model with Bayes Classifier](https://github.com/JShilpa/Data-Analysis-and-Visualization/blob/master/Machine%20Learning%20%26%20NLP/Spam%20Detection.ipynb)
 
+### Day 28: May 15, 2018
+
+[SQL With Python](https://github.com/JShilpa/SQL/blob/master/SQL%20%26%20Python/SQLite3%20With%20Panda.ipynb)
+
+### Day 29: May 16, 2018
+
+
+
+
+
