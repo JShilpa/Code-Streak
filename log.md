@@ -55,8 +55,9 @@ Studied and implemented TF-IDF method from scratch, Punctuations & StopWords.
 
 [Simple Implementation Of Binary Tree](https://github.com/JShilpa/Python-Programs/blob/master/Data%20Structures/Trees/Binary%20Tree/solution.py) [BST With Tree Traversals](https://github.com/JShilpa/Python-Programs/tree/master/Data%20Structures/Trees/Binary%20Search%20Tree)
 
+### Day 33: May 20, 2018
 
-
+Basic SQL Queries In Hackerrank
 
 
 
