@@ -59,5 +59,9 @@ Studied and implemented TF-IDF method from scratch, Punctuations & StopWords.
 
 Basic SQL Queries In Hackerrank
 
+### Day 34: May 21, 2018
+
+SQL Join Queries In Hackerrank
+Started With R Vectors
 
 
